@@ -17,6 +17,9 @@
 #Custom for php templates
 *.tpl   diff=php
 
+#Drupal Engine Templates
+.engine   diff=php
+
 #Custom for WEB
 *.html  diff=html
 *.css   diff=css
