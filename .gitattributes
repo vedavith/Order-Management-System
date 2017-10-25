@@ -1,8 +1,29 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
+#Custom for java
+*.java    diff=java
+*.class   diff=java
+
 # Custom for Visual Studio
 *.cs     diff=csharp
+
+#Custom for python
+*.py      diff=python
+
+# Custom for php
+*.php    diff=php
+
+#Custom for php templates
+*.tpl   diff=php
+
+#Custom for WEB
+*.html  diff=html
+*.css   diff=css
+*.js    diff=javascript
+
+#JSON and BSON
+*.js  diff=json
 
 # Standard to msysgit
 *.doc	 diff=astextplain
@@ -19,3 +40,4 @@
 #Compressed files
 *.rar
 *.gz
+*.tar
