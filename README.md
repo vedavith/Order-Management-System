@@ -1,29 +1,17 @@
 # Order-Management-System
-* Order Management System using Drupal
+* Order Management System using Drupal and php
 
-/*
   SRS DOCUMENT 
-*/
-
-
-
-* The application can either be developed on PhP or on a Content Management System.
-
-/*
- 
-	I chose DRUPAL(CMS) because it's compleatly raw and good for development. Unlike, worpress Drupal is fully customisable.
-*/
-
 
 
 /*
 
-	=====Stakeholders====== 
-	== Super Admin (For the Apps) - Who can add/delete/archive/edit 
+	Stakeholders
+	* Super Admin (For the Apps) - Who can add/delete/archive/edit 
 	    sub admins and other users & data
-	== Sub Admins - Who can view/edit/add but can't delete records
- 	== Distributor (Main Distributor)
-	== Retailers or Vendors or Store Fronts or Shop.
+	* Sub Admins - Who can view/edit/add but can't delete records
+ 	* Distributor (Main Distributor)
+	* Retailers or Vendors or Store Fronts or Shop.
 */
 	 /*
 	 *
